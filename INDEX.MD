@@ -1,4 +1,6 @@
 <!--italic and bold-->
+My name is MD Sakhawat Hossain. I am a new student.
+This is my final GitHub project.
 Writing in Markdown is _not_ that hard!  
 
 I **will** complete these lessons!  
